@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668764240217",
+    "project_id": "mibrary-8c21c",
+    "storage_bucket": "mibrary-8c21c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668764240217:android:e9ee3e1f87a70ef5113448",
+        "android_client_info": {
+          "package_name": "com.example.mibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvqgEZTvnaMN8H3HKXbO9tB5SrFafB-24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
